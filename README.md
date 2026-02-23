@@ -7,7 +7,18 @@ Braille Technology is an AI-powered tactile interface that converts structured d
 Built for deafblind users. Designed for everyone.
 
 ---
-![alt text](IMG_6615.png) ![alt text](IMG_6617.png) ![alt text](IMG_6619.png) ![alt text](IMG_6621.png) ![alt text](IMG_6627.png) ![alt text](IMG_6628.png) ![alt text](IMG_6629.png) ![alt text](IMG_6630.png) ![alt text](IMG_6632.png)
+<div align="center">
+  <img src="IMG_6615.png" width="19%" alt="Braille app screenshot 1" />
+  <img src="IMG_6617.png" width="19%" alt="Braille app screenshot 2" />
+  <img src="IMG_6619.png" width="19%" alt="Braille app screenshot 3" />
+  <img src="IMG_6621.png" width="19%" alt="Braille app screenshot 4" />
+  <img src="IMG_6627.png" width="19%" alt="Braille app screenshot 5" />
+  <br />
+  <img src="IMG_6628.png" width="19%" alt="Braille app screenshot 6" />
+  <img src="IMG_6629.png" width="19%" alt="Braille app screenshot 7" />
+  <img src="IMG_6630.png" width="19%" alt="Braille app screenshot 8" />
+  <img src="IMG_6632.png" width="19%" alt="Braille app screenshot 9" />
+</div>
 
 ## The World in 7–10 Years
 
