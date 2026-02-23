@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/master.swiftdeps"
+  },
+  "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/runner.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayerPackageTests.build/runner.dia"
+  }
+}

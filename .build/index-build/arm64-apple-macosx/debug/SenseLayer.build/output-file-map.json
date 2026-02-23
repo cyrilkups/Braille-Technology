@@ -1,0 +1,194 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/master.swiftdeps"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Haptics/CoreHapticService.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CoreHapticService.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CoreHapticService.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CoreHapticService~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CoreHapticService.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CoreHapticService.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Haptics/HapticEngine.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticEngine.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticEngine.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticEngine.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticEngine.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Haptics/TactileEngine.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/TactileEngine.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/TactileEngine.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/TactileEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/TactileEngine.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/TactileEngine.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/BrailleCell.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleCell.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleCell.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleCell~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleCell.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleCell.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/DemoScenario.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DemoScenario.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DemoScenario.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DemoScenario~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DemoScenario.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DemoScenario.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/HapticSignature.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticSignature.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticSignature.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticSignature~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticSignature.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/HapticSignature.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/Message.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Message.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Message.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Message~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Message.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Message.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/MessageCategory.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageCategory.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageCategory.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageCategory~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageCategory.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageCategory.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/MessagePresentation.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessagePresentation.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessagePresentation.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessagePresentation~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessagePresentation.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessagePresentation.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/SenseMode.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseMode.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseMode.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseMode~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseMode.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseMode.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Models/Tone.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Tone.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Tone.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Tone~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Tone.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Tone.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/SenseLayer.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayer.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayer.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayer.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayer.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Services/CompressionService.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CompressionService.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CompressionService.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CompressionService~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CompressionService.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/CompressionService.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Services/DraftStore.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DraftStore.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DraftStore.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DraftStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DraftStore.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/DraftStore.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Services/MessageRepository.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageRepository.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageRepository.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageRepository.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MessageRepository.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Services/MockMessageFactory.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MockMessageFactory.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MockMessageFactory.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MockMessageFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MockMessageFactory.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/MockMessageFactory.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Services/SendService.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SendService.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SendService.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SendService~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SendService.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SendService.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/State/AppState.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/AppState.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/AppState.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/AppState.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/AppState.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/State/SenseLayerState.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayerState.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayerState.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayerState~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayerState.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/SenseLayerState.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Utilities/BrailleMapping.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleMapping.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleMapping.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleMapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleMapping.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleMapping.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Utilities/Extensions.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Extensions.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Extensions.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Extensions.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Extensions.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Utilities/Scheduler.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Scheduler.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Scheduler.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Scheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Scheduler.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/Scheduler.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Views/BrailleAccessOverlayView.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleAccessOverlayView.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleAccessOverlayView.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleAccessOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleAccessOverlayView.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleAccessOverlayView.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Views/BrailleChordInputView.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleChordInputView.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleChordInputView.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleChordInputView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleChordInputView.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleChordInputView.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Views/BrailleDotsView.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleDotsView.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleDotsView.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleDotsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleDotsView.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/BrailleDotsView.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Views/ContentView.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/ContentView.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/ContentView.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/ContentView.dia"
+  },
+  "/Users/cyrilkups/Desktop/Braille/Sources/SenseLayer/Views/OverlaySubViews.swift": {
+    "dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/OverlaySubViews.d",
+    "object": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/OverlaySubViews.swift.o",
+    "swiftmodule": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/OverlaySubViews~partial.swiftmodule",
+    "swift-dependencies": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/OverlaySubViews.swiftdeps",
+    "diagnostics": "/Users/cyrilkups/Desktop/Braille/.build/index-build/arm64-apple-macosx/debug/SenseLayer.build/OverlaySubViews.dia"
+  }
+}

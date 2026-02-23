@@ -1,0 +1,3 @@
+module SenseLayer {
+    header "/Users/cyrilkups/Desktop/Braille/.build/arm64-apple-macosx/debug/SenseLayer.build/include/SenseLayer-Swift.h"
+}

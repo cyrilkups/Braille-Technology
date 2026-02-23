@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/cyrilkups/Desktop/Braille/.build/arm64-apple-macosx/debug/SenseLayerPackageTests.xctest/Contents/MacOS/SenseLayerPackageTests'
+relocations:     []
+...
